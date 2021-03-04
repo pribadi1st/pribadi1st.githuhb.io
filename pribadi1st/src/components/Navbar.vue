@@ -26,5 +26,9 @@ export default {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+
+    .navbar-item{
+        margin: 15px 20px;
+    }
 }
 </style>
